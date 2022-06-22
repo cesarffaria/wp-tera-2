@@ -1,0 +1,32 @@
+/*
+Theme Name: TERASTUDIO
+Author: César Eugénio
+Description: TERASTUDIO + Boostrap 
+Version: 2.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wpbootstrap
+*/
+
+/*@import url(/bootstrap/css/bootstrap.min.css);*/
+
+body
+{
+text-align: left;
+}
+#ttr_sidebar
+{
+border-left: 1px solid black;
+}
+#ttr_footer
+{
+width: 100%;
+border-top: 1px #a2a2a2 solid;
+text-align: center;
+}
+.title
+{
+font-size: 11pt;
+font-family: verdana;
+font-weight: bold;
+}
